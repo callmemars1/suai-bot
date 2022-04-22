@@ -1,4 +1,3 @@
-# Suai-bot
+# suai-bot project
 
-- **API**
-  - [suai-bot-api-schedule repository](https://github.com/callmemars1/suai-api-schedule)  
+- [suai-bot-api-gateway repository](https://github.com/callmemars1/suai-bot-api-gateway)  
